@@ -1,4 +1,5 @@
 # Set Theory
+
 Course in Set Theory, Master EPFL (2012)
 
-Thheh course material and exercices are in the `/course` and `/exercices` folders, respectively.
+The course materials and exercises are located in the `/course` and `/exercises` folders, respectively.
