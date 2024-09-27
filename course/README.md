@@ -1,1 +1,4 @@
-Course material...
+Course material
+---------------
+
+Manuscipt notes.
